@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<h5>I'm a Full-Stack Developer 🤓</h5>
+
+<ul>
+  <li>I'm currently working at <a href="https://kroton.tech/">@KrotonTech</a></li>
+  <li>How to reach me: <a href="https://www.linkedin.com/in/nadia-nami-abe/">Linkedin</a></li>
+</ul>
+
 <!--
 **nadianamiabe/nadianamiabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
