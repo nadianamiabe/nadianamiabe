@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h5>I'm a Full-Stack Developer 🤓</h5>
+<h5>I'm a Backend Developer 🤓</h5>
 
 <ul>
   <li>I'm currently working at <a href="https://kroton.tech/">@KrotonTech</a></li>
