@@ -1,10 +1,23 @@
 ### Hi there 👋
 
-<h5>I'm a Backend Developer 🤓</h5>
+<h3>I'm a Backend Developer 🤓</h3>
 
 <ul>
-  <li>I'm currently working at <a href="https://kroton.tech/">@KrotonTech</a></li>
+  <li>I'm currently working at <a href="https://www.cogna.com.br/">@Cogna</a></li>
   <li>How to reach me: <a href="https://www.linkedin.com/in/nadia-nami-abe/">Linkedin</a></li>
+</ul>
+
+<h4>Certificates</h4>
+<ul>
+  <li>API REST com Kotlin e Spring Boot: Camada de persistência - Alura - JUL/2023</li>
+  <li>API REST com Kotlin e Spring Boot: Camada Web - Alura - JUL/2023</li>
+  <li>Desenvolvimento Seguro de Aplicações - Cogna Educação - MAI/2023</li>
+  <li>Curso de Arquitetura baseada em microsserviços - FullCycle - FEV/2023</li>
+  <li>Kotlin: Herança, polimorfismo e interface - Alura - DEZ/2022</li>
+  <li>Kotlin: Orientação a pbjetos - Alura - NOV/2022</li>
+  <li>Curso de Kubernetes - FullCycle - JUN/2022</li>
+  <li>Curso de Docker - FullCycle - MAI/2022</li>
+  <li>Bootcamp Web Development - Ironhack - DEZ/2019</li>
 </ul>
 
 <!--
