@@ -5,7 +5,11 @@
 <ul>
   <li>I'm currently working at <a href="https://www.cogna.com.br/">@Cogna</a></li>
   <li>How to reach me: <a href="https://www.linkedin.com/in/nadia-nami-abe/">Linkedin</a></li>
-  <li>I’m currently learning: Clean Architecture and Clean Code</li>
+  <li>I’m currently learning:</li>
+    <ul>
+      <li>Clean Architecture and Clean Code</li>
+      <li>Algorithms</li>
+    </ul>
 </ul>
 
 <h4>Certificates</h4>
