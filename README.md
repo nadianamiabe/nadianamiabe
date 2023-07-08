@@ -14,6 +14,7 @@
 
 <h4>Certificates</h4>
 <ul>
+  <li>Kotlin e Spring Boot: Segurança e infraestrutura - Alura - JUL/2023</li>
   <li>API REST com Kotlin e Spring Boot: Camada de persistência - Alura - JUL/2023</li>
   <li>API REST com Kotlin e Spring Boot: Camada Web - Alura - JUL/2023</li>
   <li>Desenvolvimento Seguro de Aplicações - Cogna Educação - MAI/2023</li>
