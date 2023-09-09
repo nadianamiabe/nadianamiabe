@@ -7,7 +7,6 @@
   <li>How to reach me: <a href="https://www.linkedin.com/in/nadia-nami-abe/">Linkedin</a></li>
   <li>I’m currently learning:</li>
     <ul>
-      <li>Clean Architecture and Clean Code</li>
       <li>Algorithms</li>
     </ul>
 </ul>
@@ -18,6 +17,7 @@
 
 <h4>Certificates</h4>
 <ul>
+  <li>Clean Architecture e Clean Code - branas.io - SET/2023</li>
   <li>Kotlin e Spring Boot: Segurança e infraestrutura - Alura - JUL/2023</li>
   <li>API REST com Kotlin e Spring Boot: Camada de persistência - Alura - JUL/2023</li>
   <li>API REST com Kotlin e Spring Boot: Camada Web - Alura - JUL/2023</li>
